@@ -10,7 +10,8 @@ fork自[https://github.com/fouber/lottery](https://github.com/fouber/lottery)
 
 2. 增加一个页面
 
-    即在`你的Github账号名.github.io`网站中增加一个页面，得到`你的Github账号名.github.io/lottery`。具体方法参考[这篇文章](http://chitanda.me/2015/11/03/multiple-git-pages-in-one-github-account/)
+    即在`你的Github账号名.github.io`网站（个人页面）中增加一个页面,比如增加一个文件lottery.html，得到`你的Github账号名.github.io/lottery/`。具体方法参考https://zhuanlan.zhihu.com/p/183977963
+增加一个项目的页面，配置成`你的Github账号名.github.io/lottery/`即可
 
 ## 抽奖流程：
 
